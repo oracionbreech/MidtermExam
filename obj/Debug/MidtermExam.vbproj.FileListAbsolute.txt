@@ -1,0 +1,15 @@
+C:\Users\sempol\source\repos\MidtermExam\MidtermExam\bin\Debug\MidtermExam.exe.config
+C:\Users\sempol\source\repos\MidtermExam\MidtermExam\bin\Debug\MidtermExam.exe
+C:\Users\sempol\source\repos\MidtermExam\MidtermExam\bin\Debug\MidtermExam.pdb
+C:\Users\sempol\source\repos\MidtermExam\MidtermExam\bin\Debug\MidtermExam.xml
+C:\Users\sempol\source\repos\MidtermExam\MidtermExam\obj\Debug\MidtermExam.vbprojAssemblyReference.cache
+C:\Users\sempol\source\repos\MidtermExam\MidtermExam\obj\Debug\MidtermExam.Form1.resources
+C:\Users\sempol\source\repos\MidtermExam\MidtermExam\obj\Debug\MidtermExam.Resources.resources
+C:\Users\sempol\source\repos\MidtermExam\MidtermExam\obj\Debug\MidtermExam.voltage.resources
+C:\Users\sempol\source\repos\MidtermExam\MidtermExam\obj\Debug\MidtermExam.vbproj.GenerateResource.cache
+C:\Users\sempol\source\repos\MidtermExam\MidtermExam\obj\Debug\MidtermExam.vbproj.CoreCompileInputs.cache
+C:\Users\sempol\source\repos\MidtermExam\MidtermExam\obj\Debug\MidtermExam.exe
+C:\Users\sempol\source\repos\MidtermExam\MidtermExam\obj\Debug\MidtermExam.xml
+C:\Users\sempol\source\repos\MidtermExam\MidtermExam\obj\Debug\MidtermExam.pdb
+C:\Users\sempol\source\repos\MidtermExam\MidtermExam\obj\Debug\MidtermExam.current.resources
+C:\Users\sempol\source\repos\MidtermExam\MidtermExam\obj\Debug\MidtermExam.resistance.resources
